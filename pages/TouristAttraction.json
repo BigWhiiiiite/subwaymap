@@ -1,0 +1,2671 @@
+[
+    {
+        "station": "苹果园",
+        "attraction": "Kappa首钢极限公园"
+    },
+    {
+        "station": "苹果园",
+        "attraction": "中国第四纪冰川遗迹陈列馆"
+    },
+    {
+        "station": "苹果园",
+        "attraction": "勑赐承恩寺"
+    },
+    {
+        "station": "古城",
+        "attraction": "古城公园"
+    },
+    {
+        "station": "古城",
+        "attraction": "石景山雕塑公园"
+    },
+    {
+        "station": "八角游乐园",
+        "attraction": "石景山游乐园"
+    },
+    {
+        "station": "八角游乐园",
+        "attraction": "松林公园"
+    },
+    {
+        "station": "八角游乐园",
+        "attraction": "田村城市休闲公园"
+    },
+    {
+        "station": "八角游乐园",
+        "attraction": "老山城市休闲公园"
+    },
+    {
+        "station": "八角游乐园",
+        "attraction": "半月园"
+    },
+    {
+        "station": "八宝山",
+        "attraction": "老山城市休闲公园"
+    },
+    {
+        "station": "八宝山",
+        "attraction": "八宝山革命公墓"
+    },
+    {
+        "station": "八宝山",
+        "attraction": "北京国际雕塑公园"
+    },
+    {
+        "station": "玉泉路",
+        "attraction": "北京国际雕塑公园"
+    },
+    {
+        "station": "玉泉路",
+        "attraction": "旺景公园"
+    },
+    {
+        "station": "玉泉路",
+        "attraction": "阳光星期八公园"
+    },
+    {
+        "station": "玉泉路",
+        "attraction": "铁道兵纪念馆"
+    },
+    {
+        "station": "五棵松",
+        "attraction": "五棵松公园"
+    },
+    {
+        "station": "五棵松",
+        "attraction": "定慧公园"
+    },
+    {
+        "station": "万寿路",
+        "attraction": "翠微烟雨公园"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "玉渊潭公园"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "太平洋海底世界博览馆"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "中央电视塔"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "翠微烟雨公园"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "小天鹅公园"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "中国人民革命军事博物馆"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "中华世纪坛世界艺术馆"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "世纪园"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "宋庆龄儿童科学技术馆"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "玉渊潭公园"
+    },
+    {
+        "station": "木樨地",
+        "attraction": "首都博物馆"
+    },
+    {
+        "station": "木樨地",
+        "attraction": "玉渊潭公园东门"
+    },
+    {
+        "station": "木樨地",
+        "attraction": "白云观"
+    },
+    {
+        "station": "南礼士路",
+        "attraction": "南礼士路公园"
+    },
+    {
+        "station": "南礼士路",
+        "attraction": "月坛公园"
+    },
+    {
+        "station": "复兴门",
+        "attraction": "南礼士路公园"
+    },
+    {
+        "station": "复兴门",
+        "attraction": "吕祖宫"
+    },
+    {
+        "station": "复兴门",
+        "attraction": "都城隍庙"
+    },
+    {
+        "station": "西单",
+        "attraction": "西单文化广场"
+    },
+    {
+        "station": "西单",
+        "attraction": "民族文化宫"
+    },
+    {
+        "station": "西单",
+        "attraction": "西单大悦城"
+    },
+    {
+        "station": "天安门西",
+        "attraction": "中山公园"
+    },
+    {
+        "station": "天安门西",
+        "attraction": "天安门广场"
+    },
+    {
+        "station": "天安门西",
+        "attraction": "人民大会堂"
+    },
+    {
+        "station": "天安门西",
+        "attraction": "国家大剧院"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "故宫"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "中国国家博物馆"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "菖蒲河公园"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "翰林院遗址"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "东源戏楼"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "茅台博物馆"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "天安门广场"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "皇史宬"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "普度寺"
+    },
+    {
+        "station": "天安门东",
+        "attraction": "太庙"
+    },
+    {
+        "station": "王府井",
+        "attraction": "王府井大街"
+    },
+    {
+        "station": "王府井",
+        "attraction": "普度寺"
+    },
+    {
+        "station": "东单",
+        "attraction": "中国妇女儿童博物馆"
+    },
+    {
+        "station": "东单",
+        "attraction": "东单公园"
+    },
+    {
+        "station": "东单",
+        "attraction": "于谦祠"
+    },
+    {
+        "station": "建国门",
+        "attraction": "北京古观象台"
+    },
+    {
+        "station": "建国门",
+        "attraction": "中国海关博物馆"
+    },
+    {
+        "station": "建国门",
+        "attraction": "日坛公园"
+    },
+    {
+        "station": "建国门",
+        "attraction": "智化寺"
+    },
+    {
+        "station": "永安里",
+        "attraction": "日坛公园"
+    },
+    {
+        "station": "国贸",
+        "attraction": "庆丰公园"
+    },
+    {
+        "station": "国贸",
+        "attraction": "CBD城市森林公园"
+    },
+    {
+        "station": "大望路",
+        "attraction": "国家电力科技展示中心"
+    },
+    {
+        "station": "大望路",
+        "attraction": "中工艺美公共外交艺术馆"
+    },
+    {
+        "station": "四惠",
+        "attraction": "惠水湾森林公园"
+    },
+    {
+        "station": "四惠东",
+        "attraction": "北京晋商博物馆"
+    },
+    {
+        "station": "高碑店",
+        "attraction": "中国紫檀博物馆"
+    },
+    {
+        "station": "高碑店",
+        "attraction": "兴隆公园"
+    },
+    {
+        "station": "高碑店",
+        "attraction": "高碑店漕运历史文化游览区"
+    },
+    {
+        "station": "传媒大学",
+        "attraction": "百花公园"
+    },
+    {
+        "station": "传媒大学",
+        "attraction": "杜仲公园"
+    },
+    {
+        "station": "双桥",
+        "attraction": "西会公园"
+    },
+    {
+        "station": "管庄",
+        "attraction": "西会公园"
+    },
+    {
+        "station": "八里桥",
+        "attraction": "东一处公园"
+    },
+    {
+        "station": "八里桥",
+        "attraction": "八里桥公园"
+    },
+    {
+        "station": "八里桥",
+        "attraction": "永顺公园"
+    },
+    {
+        "station": "通州北苑",
+        "attraction": "五里店西铁道公园"
+    },
+    {
+        "station": "通州北苑",
+        "attraction": "杨庄公园"
+    },
+    {
+        "station": "九棵树",
+        "attraction": "漫春园"
+    },
+    {
+        "station": "临河里",
+        "attraction": "梨园城市森林公园"
+    },
+    {
+        "station": "临河里",
+        "attraction": "梨园主题公园"
+    },
+    {
+        "station": "环球度假区",
+        "attraction": "北京环球度假区"
+    },
+    {
+        "station": "积水潭",
+        "attraction": "什刹海"
+    },
+    {
+        "station": "积水潭",
+        "attraction": "潭西胜境"
+    },
+    {
+        "station": "积水潭",
+        "attraction": "德胜门箭楼·德胜公园"
+    },
+    {
+        "station": "鼓楼大街",
+        "attraction": "安德城市森林公园"
+    },
+    {
+        "station": "鼓楼大街",
+        "attraction": "北二环城市公园"
+    },
+    {
+        "station": "鼓楼大街",
+        "attraction": "北滨河公园"
+    },
+    {
+        "station": "安定门",
+        "attraction": "北二环城市公园"
+    },
+    {
+        "station": "安定门",
+        "attraction": "安定门健身乐园"
+    },
+    {
+        "station": "安定门",
+        "attraction": "成贤街"
+    },
+    {
+        "station": "安定门",
+        "attraction": "青年湖公园"
+    },
+    {
+        "station": "安定门",
+        "attraction": "地坛公园"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "雍和宫"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "地坛公园"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "孔庙和国子监博物馆"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "五道营"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "北二环城市公园"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "柏林寺"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "安定门健身乐园"
+    },
+    {
+        "station": "东直门",
+        "attraction": "南馆公园"
+    },
+    {
+        "station": "东直门",
+        "attraction": "通教寺"
+    },
+    {
+        "station": "东直门",
+        "attraction": "中国华侨历史博物馆"
+    },
+    {
+        "station": "东直门",
+        "attraction": "东直门外清真寺"
+    },
+    {
+        "station": "东直门",
+        "attraction": "中国医史博物馆"
+    },
+    {
+        "station": "东直门",
+        "attraction": "北京自来水博物馆"
+    },
+    {
+        "station": "东四十条",
+        "attraction": "北京工人体育馆"
+    },
+    {
+        "station": "东四十条",
+        "attraction": "新中街城市森林公园"
+    },
+    {
+        "station": "朝阳门",
+        "attraction": "北京民俗博物馆/东岳庙"
+    },
+    {
+        "station": "朝阳门",
+        "attraction": "南豆芽清真寺(豆瓣胡同)"
+    },
+    {
+        "station": "朝阳门",
+        "attraction": "东四奥林匹克社区博物馆"
+    },
+    {
+        "station": "朝阳门",
+        "attraction": "智化寺"
+    },
+    {
+        "station": "建国门",
+        "attraction": "北京古观象台"
+    },
+    {
+        "station": "建国门",
+        "attraction": "中国海关博物馆"
+    },
+    {
+        "station": "建国门",
+        "attraction": "日坛公园"
+    },
+    {
+        "station": "建国门",
+        "attraction": "智化寺"
+    },
+    {
+        "station": "北京站",
+        "attraction": "明城墙遗址公园"
+    },
+    {
+        "station": "崇文门",
+        "attraction": "明城墙遗址公园"
+    },
+    {
+        "station": "崇文门",
+        "attraction": "东单公园"
+    },
+    {
+        "station": "崇文门",
+        "attraction": "东交民巷使馆建筑群"
+    },
+    {
+        "station": "前门",
+        "attraction": "天安门广场"
+    },
+    {
+        "station": "前门",
+        "attraction": "北京警察博物馆"
+    },
+    {
+        "station": "前门",
+        "attraction": "正阳门·箭楼"
+    },
+    {
+        "station": "前门",
+        "attraction": "中国国家博物馆"
+    },
+    {
+        "station": "前门",
+        "attraction": "北京市规划展览馆"
+    },
+    {
+        "station": "前门",
+        "attraction": "中国铁道博物馆正阳门展馆"
+    },
+    {
+        "station": "前门",
+        "attraction": "前门大街"
+    },
+    {
+        "station": "前门",
+        "attraction": "月亮湾公园"
+    },
+    {
+        "station": "前门",
+        "attraction": "北京杜莎夫人蜡像馆"
+    },
+    {
+        "station": "和平门",
+        "attraction": "琉璃厂古文化街"
+    },
+    {
+        "station": "和平门",
+        "attraction": "荣宝斋美术馆"
+    },
+    {
+        "station": "宣武门",
+        "attraction": "北京教区宣武门天主堂"
+    },
+    {
+        "station": "宣武门",
+        "attraction": "繁星美术馆"
+    },
+    {
+        "station": "宣武门",
+        "attraction": "沈家本故居"
+    },
+    {
+        "station": "长椿街",
+        "attraction": "宣武艺园"
+    },
+    {
+        "station": "长椿街",
+        "attraction": "翠芳园"
+    },
+    {
+        "station": "复兴门",
+        "attraction": "南礼士路公园"
+    },
+    {
+        "station": "复兴门",
+        "attraction": "吕祖宫"
+    },
+    {
+        "station": "复兴门",
+        "attraction": "都城隍庙"
+    },
+    {
+        "station": "阜成门",
+        "attraction": "北京鲁迅博物馆"
+    },
+    {
+        "station": "阜成门",
+        "attraction": "白塔寺"
+    },
+    {
+        "station": "阜成门",
+        "attraction": "老北京四合院文化博物馆"
+    },
+    {
+        "station": "阜成门",
+        "attraction": "顺城公园"
+    },
+    {
+        "station": "车公庄",
+        "attraction": "国家京剧院"
+    },
+    {
+        "station": "车公庄",
+        "attraction": "利玛窦和外国传教士墓地"
+    },
+    {
+        "station": "车公庄",
+        "attraction": "玉皇阁"
+    },
+    {
+        "station": "车公庄",
+        "attraction": "官园公园"
+    },
+    {
+        "station": "安定门",
+        "attraction": "地坛公园"
+    },
+    {
+        "station": "安定门",
+        "attraction": "安定门健身乐园"
+    },
+    {
+        "station": "北宫门",
+        "attraction": "颐和园"
+    },
+    {
+        "station": "圆明园",
+        "attraction": "圆明园"
+    },
+    {
+        "station": "圆明园",
+        "attraction": "清华大学"
+    },
+    {
+        "station": "北京大学东门",
+        "attraction": "清华大学"
+    },
+    {
+        "station": "北京大学东门",
+        "attraction": "北京大学"
+    },
+    {
+        "station": "中关村",
+        "attraction": "黄庄双关帝庙"
+    },
+    {
+        "station": "海淀黄庄",
+        "attraction": "知春公园"
+    },
+    {
+        "station": "人民大学",
+        "attraction": "北京科技会展中心"
+    },
+    {
+        "station": "魏公村",
+        "attraction": "法华禅寺"
+    },
+    {
+        "station": "魏公村",
+        "attraction": "大慧寺"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "国家图书馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "紫竹院公园"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "北京石刻艺术博物馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "首都滑冰馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "北京动物园"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "极乐寺"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "首都滑冰馆"
+    },
+    {
+        "station": "动物园",
+        "attraction": "北京动物园"
+    },
+    {
+        "station": "动物园",
+        "attraction": "北京天文馆"
+    },
+    {
+        "station": "动物园",
+        "attraction": "中国古动物馆"
+    },
+    {
+        "station": "新街口",
+        "attraction": "八道湾鲁迅纪念馆"
+    },
+    {
+        "station": "新街口",
+        "attraction": "新街口城市森林公园"
+    },
+    {
+        "station": "平安里",
+        "attraction": "护国寺小吃街"
+    },
+    {
+        "station": "平安里",
+        "attraction": "毗卢寺"
+    },
+    {
+        "station": "平安里",
+        "attraction": "梅兰芳纪念馆"
+    },
+    {
+        "station": "西四",
+        "attraction": "勅建弘慈广济寺"
+    },
+    {
+        "station": "西四",
+        "attraction": "中国地质博物馆"
+    },
+    {
+        "station": "西四",
+        "attraction": "西什库天主教堂"
+    },
+    {
+        "station": "西四",
+        "attraction": "历代帝王庙"
+    },
+    {
+        "station": "灵境胡同",
+        "attraction": "西单大悦城"
+    },
+    {
+        "station": "西单",
+        "attraction": "西单文化广场"
+    },
+    {
+        "station": "西单",
+        "attraction": "民族文化宫"
+    },
+    {
+        "station": "西单",
+        "attraction": "西单大悦城"
+    },
+    {
+        "station": "宣武门",
+        "attraction": "北京教区宣武门天主堂"
+    },
+    {
+        "station": "宣武门",
+        "attraction": "繁星美术馆"
+    },
+    {
+        "station": "宣武门",
+        "attraction": "沈家本故居"
+    },
+    {
+        "station": "菜市口",
+        "attraction": "法源寺"
+    },
+    {
+        "station": "菜市口",
+        "attraction": "莲花寺"
+    },
+    {
+        "station": "菜市口",
+        "attraction": "广阳谷城市森林公园"
+    },
+    {
+        "station": "陶然亭",
+        "attraction": "陶然亭公园"
+    },
+    {
+        "station": "陶然亭",
+        "attraction": "万寿公园"
+    },
+    {
+        "station": "北京南站",
+        "attraction": "万芳亭"
+    },
+    {
+        "station": "马家堡",
+        "attraction": "嘉河公园"
+    },
+    {
+        "station": "角门西",
+        "attraction": "嘉园三里公园"
+    },
+    {
+        "station": "角门西",
+        "attraction": "嘉囿城市休闲公园"
+    },
+    {
+        "station": "公益西桥",
+        "attraction": "槐新公园"
+    },
+    {
+        "station": "新宫",
+        "attraction": "南苑公园"
+    },
+    {
+        "station": "西红门",
+        "attraction": "兴海公园"
+    },
+    {
+        "station": "西红门",
+        "attraction": "地铁文化公园"
+    },
+    {
+        "station": "西红门",
+        "attraction": "西红门九龙口休闲公园"
+    },
+    {
+        "station": "高米店北",
+        "attraction": "滨河公园"
+    },
+    {
+        "station": "高米店北",
+        "attraction": "翡翠公园"
+    },
+    {
+        "station": "高米店南",
+        "attraction": "金星公园"
+    },
+    {
+        "station": "枣园",
+        "attraction": "枣林公园"
+    },
+    {
+        "station": "枣园",
+        "attraction": "康庄公园"
+    },
+    {
+        "station": "清源路",
+        "attraction": "黄村公园"
+    },
+    {
+        "station": "清源路",
+        "attraction": "中国印刷博物馆"
+    },
+    {
+        "station": "义和庄",
+        "attraction": "念坛公园"
+    },
+    {
+        "station": "义和庄",
+        "attraction": "大兴新城滨河森林公园"
+    },
+    {
+        "station": "义和庄",
+        "attraction": "兴良路公园"
+    },
+    {
+        "station": "天通苑",
+        "attraction": "天通艺园"
+    },
+    {
+        "station": "天通苑南",
+        "attraction": "太平郊野公园"
+    },
+    {
+        "station": "立水桥",
+        "attraction": "立水桥公园"
+    },
+    {
+        "station": "立水桥",
+        "attraction": "东小口森林公园"
+    },
+    {
+        "station": "立水桥南",
+        "attraction": "清河营郊野公园"
+    },
+    {
+        "station": "立水桥南",
+        "attraction": "东小口森林公园"
+    },
+    {
+        "station": "立水桥南",
+        "attraction": "景藏健康公园"
+    },
+    {
+        "station": "北苑路北",
+        "attraction": "勇士营郊野公园"
+    },
+    {
+        "station": "北苑路北",
+        "attraction": "北辰绿色中央公园"
+    },
+    {
+        "station": "大屯路东",
+        "attraction": "仰山公园"
+    },
+    {
+        "station": "惠新西街南口",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "和平里北街",
+        "attraction": "地坛公园"
+    },
+    {
+        "station": "和平里北街",
+        "attraction": "柳荫公园"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "雍和宫"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "地坛公园"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "孔庙和国子监博物馆"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "五道营"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "北二环城市公园"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "柏林寺"
+    },
+    {
+        "station": "雍和宫",
+        "attraction": "安定门健身乐园"
+    },
+    {
+        "station": "北新桥",
+        "attraction": "簋街"
+    },
+    {
+        "station": "北新桥",
+        "attraction": "中国华侨历史博物馆"
+    },
+    {
+        "station": "北新桥",
+        "attraction": "通教寺"
+    },
+    {
+        "station": "北新桥",
+        "attraction": "中国医史博物馆"
+    },
+    {
+        "station": "东四站",
+        "attraction": "东四胡同博物馆"
+    },
+    {
+        "station": "东四站",
+        "attraction": "中国美术馆"
+    },
+    {
+        "station": "东四站",
+        "attraction": "东四清真寺"
+    },
+    {
+        "station": "灯市口",
+        "attraction": "蔡元培故居"
+    },
+    {
+        "station": "东单",
+        "attraction": "中国妇女儿童博物馆"
+    },
+    {
+        "station": "东单",
+        "attraction": "东单公园"
+    },
+    {
+        "station": "东单",
+        "attraction": "于谦祠"
+    },
+    {
+        "station": "崇文门",
+        "attraction": "明城墙遗址公园"
+    },
+    {
+        "station": "崇文门",
+        "attraction": "东单公园"
+    },
+    {
+        "station": "崇文门",
+        "attraction": "东交民巷使馆建筑群"
+    },
+    {
+        "station": "磁器口",
+        "attraction": "曹雪芹故居纪念馆"
+    },
+    {
+        "station": "磁器口",
+        "attraction": "花市清真寺"
+    },
+    {
+        "station": "天坛东门",
+        "attraction": "天坛"
+    },
+    {
+        "station": "天坛东门",
+        "attraction": "龙潭西湖公园"
+    },
+    {
+        "station": "蒲黄榆",
+        "attraction": "玉蜓公园"
+    },
+    {
+        "station": "蒲黄榆",
+        "attraction": "怡心园"
+    },
+    {
+        "station": "蒲黄榆",
+        "attraction": "方庄体育公园"
+    },
+    {
+        "station": "金安桥",
+        "attraction": "首钢工业遗址公园"
+    },
+    {
+        "station": "金安桥",
+        "attraction": "石景山公园"
+    },
+    {
+        "station": "苹果园",
+        "attraction": "Kappa首钢极限公园"
+    },
+    {
+        "station": "苹果园",
+        "attraction": "中国第四纪冰川遗迹陈列馆"
+    },
+    {
+        "station": "苹果园",
+        "attraction": "勑赐承恩寺"
+    },
+    {
+        "station": "杨庄",
+        "attraction": "苹果园公园"
+    },
+    {
+        "station": "杨庄",
+        "attraction": "八角新乐园"
+    },
+    {
+        "station": "杨庄",
+        "attraction": "平坡草树公园"
+    },
+    {
+        "station": "西黄村",
+        "attraction": "平坡草树公园"
+    },
+    {
+        "station": "西黄村",
+        "attraction": "八角新乐园"
+    },
+    {
+        "station": "西黄村",
+        "attraction": "西黄村公园"
+    },
+    {
+        "station": "廖公庄",
+        "attraction": "平庄郊野公园"
+    },
+    {
+        "station": "田村",
+        "attraction": "平庄郊野公园"
+    },
+    {
+        "station": "田村",
+        "attraction": "阳光星期八公园"
+    },
+    {
+        "station": "海淀五路居",
+        "attraction": "定慧公园"
+    },
+    {
+        "station": "慈寿寺",
+        "attraction": "京门铁路主题公园"
+    },
+    {
+        "station": "慈寿寺",
+        "attraction": "慈寿寺塔·玲珑公园"
+    },
+    {
+        "station": "花园桥",
+        "attraction": "中塔公园"
+    },
+    {
+        "station": "车公庄",
+        "attraction": "国家京剧院"
+    },
+    {
+        "station": "车公庄",
+        "attraction": "利玛窦和外国传教士墓地"
+    },
+    {
+        "station": "车公庄",
+        "attraction": "玉皇阁"
+    },
+    {
+        "station": "车公庄",
+        "attraction": "官园公园"
+    },
+    {
+        "station": "平安里",
+        "attraction": "护国寺小吃街"
+    },
+    {
+        "station": "平安里",
+        "attraction": "毗卢寺"
+    },
+    {
+        "station": "平安里",
+        "attraction": "梅兰芳纪念馆"
+    },
+    {
+        "station": "北海北",
+        "attraction": "什刹海"
+    },
+    {
+        "station": "北海北",
+        "attraction": "北海公园"
+    },
+    {
+        "station": "北海北",
+        "attraction": "郭沫若故居"
+    },
+    {
+        "station": "北海北",
+        "attraction": "恭王府"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "南锣鼓巷"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "嵩祝寺及智珠寺"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "僧王府"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "景山公园"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "皇城根遗址公园"
+    },
+    {
+        "station": "东四站",
+        "attraction": "东四胡同博物馆"
+    },
+    {
+        "station": "东四站",
+        "attraction": "中国美术馆"
+    },
+    {
+        "station": "东四站",
+        "attraction": "东四清真寺"
+    },
+    {
+        "station": "朝阳门",
+        "attraction": "北京民俗博物馆/东岳庙"
+    },
+    {
+        "station": "朝阳门",
+        "attraction": "南豆芽清真寺(豆瓣胡同)"
+    },
+    {
+        "station": "朝阳门",
+        "attraction": "东四奥林匹克社区博物馆"
+    },
+    {
+        "station": "朝阳门",
+        "attraction": "智化寺"
+    },
+    {
+        "station": "东大桥",
+        "attraction": "北京工体富国海底世界"
+    },
+    {
+        "station": "东大桥",
+        "attraction": "北京民俗博物馆/东岳庙"
+    },
+    {
+        "station": "呼家楼",
+        "attraction": "团结湖公园"
+    },
+    {
+        "station": "金台路",
+        "attraction": "万科公园"
+    },
+    {
+        "station": "金台路",
+        "attraction": "红领巾公园"
+    },
+    {
+        "station": "十里堡",
+        "attraction": "红领巾公园"
+    },
+    {
+        "station": "十里堡",
+        "attraction": "清风绿屿"
+    },
+    {
+        "station": "十里堡",
+        "attraction": "十北文化公园"
+    },
+    {
+        "station": "青年路",
+        "attraction": "儿童主题公园"
+    },
+    {
+        "station": "青年路",
+        "attraction": "八里庄绿无限公园"
+    },
+    {
+        "station": "青年路",
+        "attraction": "京城森林公园"
+    },
+    {
+        "station": "青年路",
+        "attraction": "朝阳区平房公园"
+    },
+    {
+        "station": "褡裢坡",
+        "attraction": "京城梨园"
+    },
+    {
+        "station": "褡裢坡",
+        "attraction": "黄渠公园"
+    },
+    {
+        "station": "褡裢坡",
+        "attraction": "石各庄公园"
+    },
+    {
+        "station": "黄渠",
+        "attraction": "常营马拉松体育公园"
+    },
+    {
+        "station": "黄渠",
+        "attraction": "常营清真古寺"
+    },
+    {
+        "station": "常营",
+        "attraction": "常营公园"
+    },
+    {
+        "station": "常营",
+        "attraction": "常营体育公园"
+    },
+    {
+        "station": "草房",
+        "attraction": "五里桥公园"
+    },
+    {
+        "station": "草房",
+        "attraction": "香江常营亲子游乐园"
+    },
+    {
+        "station": "草房",
+        "attraction": "永顺城市公园"
+    },
+    {
+        "station": "草房",
+        "attraction": "马术公园"
+    },
+    {
+        "station": "物资学院路",
+        "attraction": "温榆河滨河森林公园"
+    },
+    {
+        "station": "通州北关",
+        "attraction": "西海子公园"
+    },
+    {
+        "station": "通州北关",
+        "attraction": "三教庙"
+    },
+    {
+        "station": "通州北关",
+        "attraction": "大光楼"
+    },
+    {
+        "station": "通州北关",
+        "attraction": "北京(通州)大运河文化旅游景区"
+    },
+    {
+        "station": "通州北关",
+        "attraction": "北京市通州区博物馆"
+    },
+    {
+        "station": "北运河西",
+        "attraction": "北京(通州)大运河文化旅游景区"
+    },
+    {
+        "station": "北运河东",
+        "attraction": "运河生态公园"
+    },
+    {
+        "station": "郝家府",
+        "attraction": "北京(通州)大运河文化旅游景区"
+    },
+    {
+        "station": "潞城",
+        "attraction": "东堡公园"
+    },
+    {
+        "station": "北京西",
+        "attraction": "莲花池公园"
+    },
+    {
+        "station": "湾子",
+        "attraction": "莲花河城市休闲公园"
+    },
+    {
+        "station": "达官营",
+        "attraction": "中国国家话剧院"
+    },
+    {
+        "station": "达官营",
+        "attraction": "天宁寺塔"
+    },
+    {
+        "station": "达官营",
+        "attraction": "滨河公园"
+    },
+    {
+        "station": "广安门内",
+        "attraction": "广宁公园"
+    },
+    {
+        "station": "广安门内",
+        "attraction": "报国寺"
+    },
+    {
+        "station": "广安门内",
+        "attraction": "宣武艺园"
+    },
+    {
+        "station": "广安门内",
+        "attraction": "北京宣南文化博物馆"
+    },
+    {
+        "station": "广安门内",
+        "attraction": "宝应寺"
+    },
+    {
+        "station": "菜市口",
+        "attraction": "法源寺"
+    },
+    {
+        "station": "菜市口",
+        "attraction": "莲花寺"
+    },
+    {
+        "station": "菜市口",
+        "attraction": "广阳谷城市森林公园"
+    },
+    {
+        "station": "虎坊桥",
+        "attraction": "琉璃厂古文化街"
+    },
+    {
+        "station": "虎坊桥",
+        "attraction": "京韵园"
+    },
+    {
+        "station": "虎坊桥",
+        "attraction": "纪晓岚故居"
+    },
+    {
+        "station": "虎坊桥",
+        "attraction": "93号院博物馆"
+    },
+    {
+        "station": "虎坊桥",
+        "attraction": "蜡烛园"
+    },
+    {
+        "station": "虎坊桥",
+        "attraction": "湖广会馆-大戏楼"
+    },
+    {
+        "station": "虎坊桥",
+        "attraction": "林则徐故居(福州新馆)"
+    },
+    {
+        "station": "桥湾",
+        "attraction": "三里河公园"
+    },
+    {
+        "station": "桥湾",
+        "attraction": "重兴关帝庙"
+    },
+    {
+        "station": "桥湾",
+        "attraction": "吴越钱氏宗祠"
+    },
+    {
+        "station": "桥湾",
+        "attraction": "金台书院"
+    },
+    {
+        "station": "磁器口",
+        "attraction": "曹雪芹故居纪念馆"
+    },
+    {
+        "station": "磁器口",
+        "attraction": "花市清真寺"
+    },
+    {
+        "station": "广渠门内",
+        "attraction": "袁崇焕墓和祠"
+    },
+    {
+        "station": "大郊亭",
+        "attraction": "百子湾园"
+    },
+    {
+        "station": "百子湾",
+        "attraction": "惠水湾森林公园"
+    },
+    {
+        "station": "化工",
+        "attraction": "窑洼湖公园"
+    },
+    {
+        "station": "欢乐谷景区",
+        "attraction": "北京欢乐谷"
+    },
+    {
+        "station": "欢乐谷景区",
+        "attraction": "小武基公园"
+    },
+    {
+        "station": "垡头",
+        "attraction": "翠城公园"
+    },
+    {
+        "station": "双合",
+        "attraction": "古塔公园"
+    },
+    {
+        "station": "黄厂",
+        "attraction": "马家湾湿地公园"
+    },
+    {
+        "station": "郎辛庄",
+        "attraction": "萧太后河公园"
+    },
+    {
+        "station": "黑庄户",
+        "attraction": "绿丰休闲公园"
+    },
+    {
+        "station": "黑庄户",
+        "attraction": "萧太后河公园"
+    },
+    {
+        "station": "万盛西",
+        "attraction": "荣宝斋画院"
+    },
+    {
+        "station": "万盛东",
+        "attraction": "荣宝斋画院"
+    },
+    {
+        "station": "育知路",
+        "attraction": "回龙园"
+    },
+    {
+        "station": "回龙观东大街",
+        "attraction": "半塔郊野公园"
+    },
+    {
+        "station": "回龙观东大街",
+        "attraction": "霍营公园"
+    },
+    {
+        "station": "西小口",
+        "attraction": "西小口公园"
+    },
+    {
+        "station": "西小口",
+        "attraction": "小营公园"
+    },
+    {
+        "station": "西小口",
+        "attraction": "东小口城市休闲公园"
+    },
+    {
+        "station": "西小口",
+        "attraction": "碧水风荷公园"
+    },
+    {
+        "station": "永泰庄",
+        "attraction": "永泰绿色生态园"
+    },
+    {
+        "station": "永泰庄",
+        "attraction": "碧水风荷公园"
+    },
+    {
+        "station": "林萃桥",
+        "attraction": "奥林匹克森林公园"
+    },
+    {
+        "station": "森林公园南门",
+        "attraction": "奥林匹克森林公园"
+    },
+    {
+        "station": "奥林匹克公园",
+        "attraction": "北京奥林匹克公园"
+    },
+    {
+        "station": "奥体中心",
+        "attraction": "北京奥林匹克公园"
+    },
+    {
+        "station": "奥体中心",
+        "attraction": "奥体中心"
+    },
+    {
+        "station": "奥体中心",
+        "attraction": "鸟巢"
+    },
+    {
+        "station": "奥体中心",
+        "attraction": "水立方"
+    },
+    {
+        "station": "奥体中心",
+        "attraction": "北京中华民族园"
+    },
+    {
+        "station": "北土城",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "安华桥",
+        "attraction": "玫瑰公园"
+    },
+    {
+        "station": "安华桥",
+        "attraction": "西黄寺"
+    },
+    {
+        "station": "安德里北街",
+        "attraction": "青年湖公园"
+    },
+    {
+        "station": "安德里北街",
+        "attraction": "人定湖公园"
+    },
+    {
+        "station": "安德里北街",
+        "attraction": "柳荫公园"
+    },
+    {
+        "station": "鼓楼大街",
+        "attraction": "安德城市森林公园"
+    },
+    {
+        "station": "鼓楼大街",
+        "attraction": "北二环城市公园"
+    },
+    {
+        "station": "鼓楼大街",
+        "attraction": "北滨河公园"
+    },
+    {
+        "station": "什刹海",
+        "attraction": "钟鼓楼"
+    },
+    {
+        "station": "什刹海",
+        "attraction": "什刹海"
+    },
+    {
+        "station": "什刹海",
+        "attraction": "南锣鼓巷"
+    },
+    {
+        "station": "什刹海",
+        "attraction": "北海公园"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "南锣鼓巷"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "嵩祝寺及智珠寺"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "僧王府"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "景山公园"
+    },
+    {
+        "station": "南锣鼓巷",
+        "attraction": "皇城根遗址公园"
+    },
+    {
+        "station": "中国美术馆",
+        "attraction": "中国美术馆"
+    },
+    {
+        "station": "中国美术馆",
+        "attraction": "嵩祝寺及智珠寺"
+    },
+    {
+        "station": "中国美术馆",
+        "attraction": "北京大学红楼"
+    },
+    {
+        "station": "中国美术馆",
+        "attraction": "景山公园"
+    },
+    {
+        "station": "金鱼胡同",
+        "attraction": "普度寺"
+    },
+    {
+        "station": "王府井",
+        "attraction": "王府井大街"
+    },
+    {
+        "station": "王府井",
+        "attraction": "普度寺"
+    },
+    {
+        "station": "前门",
+        "attraction": "天安门广场"
+    },
+    {
+        "station": "前门",
+        "attraction": "北京警察博物馆"
+    },
+    {
+        "station": "前门",
+        "attraction": "正阳门·箭楼"
+    },
+    {
+        "station": "前门",
+        "attraction": "中国国家博物馆"
+    },
+    {
+        "station": "前门",
+        "attraction": "北京市规划展览馆"
+    },
+    {
+        "station": "前门",
+        "attraction": "中国铁道博物馆正阳门展馆"
+    },
+    {
+        "station": "前门",
+        "attraction": "前门大街"
+    },
+    {
+        "station": "前门",
+        "attraction": "月亮湾公园"
+    },
+    {
+        "station": "前门",
+        "attraction": "北京杜莎夫人蜡像馆"
+    },
+    {
+        "station": "天桥",
+        "attraction": "天坛公园"
+    },
+    {
+        "station": "天桥",
+        "attraction": "永定门公园"
+    },
+    {
+        "station": "天桥",
+        "attraction": "北京自然博物馆"
+    },
+    {
+        "station": "天桥",
+        "attraction": "北京天桥艺术中心"
+    },
+    {
+        "station": "天桥",
+        "attraction": "北京古代建筑博物馆"
+    },
+    {
+        "station": "永定门外",
+        "attraction": "景泰公园"
+    },
+    {
+        "station": "永定门外",
+        "attraction": "永定门城楼"
+    },
+    {
+        "station": "海户屯",
+        "attraction": "福海公园"
+    },
+    {
+        "station": "大红门南",
+        "attraction": "榴彩公园"
+    },
+    {
+        "station": "大红门南",
+        "attraction": "石榴庄城市休闲公园"
+    },
+    {
+        "station": "大红门南",
+        "attraction": "桃苑公园"
+    },
+    {
+        "station": "和义",
+        "attraction": "东高地公园"
+    },
+    {
+        "station": "东高地",
+        "attraction": "世界之花公园"
+    },
+    {
+        "station": "五福堂",
+        "attraction": "雷锋纪念馆"
+    },
+    {
+        "station": "五福堂",
+        "attraction": "市民公园"
+    },
+    {
+        "station": "五福堂",
+        "attraction": "旧宫森林公园"
+    },
+    {
+        "station": "德茂",
+        "attraction": "南海子公园"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "国家图书馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "紫竹院公园"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "北京石刻艺术博物馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "首都滑冰馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "北京动物园"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "极乐寺"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "首都滑冰馆"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "中国人民革命军事博物馆"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "中华世纪坛世界艺术馆"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "世纪园"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "宋庆龄儿童科学技术馆"
+    },
+    {
+        "station": "军事博物馆",
+        "attraction": "玉渊潭公园"
+    },
+    {
+        "station": "北京西",
+        "attraction": "莲花池公园"
+    },
+    {
+        "station": "六里桥东",
+        "attraction": "莲花池公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "万丰公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "莲花池公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "足球公园"
+    },
+    {
+        "station": "丰台科技园",
+        "attraction": "北京汽车博物馆"
+    },
+    {
+        "station": "丰台南路",
+        "attraction": "丰台科技园生态主题公园"
+    },
+    {
+        "station": "科怡路",
+        "attraction": "科丰公园"
+    },
+    {
+        "station": "巴沟站",
+        "attraction": "巴沟山水园"
+    },
+    {
+        "station": "巴沟站",
+        "attraction": "船营公园"
+    },
+    {
+        "station": "火器营",
+        "attraction": "金源娱乐园"
+    },
+    {
+        "station": "火器营",
+        "attraction": "蓝靛厂公园"
+    },
+    {
+        "station": "火器营",
+        "attraction": "蓝靛厂清真寺"
+    },
+    {
+        "station": "火器营",
+        "attraction": "融乐公园"
+    },
+    {
+        "station": "长春桥",
+        "attraction": "长春健身园"
+    },
+    {
+        "station": "车道沟",
+        "attraction": "曙光防灾教育公园"
+    },
+    {
+        "station": "车道沟",
+        "attraction": "南长河公园"
+    },
+    {
+        "station": "车道沟",
+        "attraction": "四季曙光公园"
+    },
+    {
+        "station": "车道沟",
+        "attraction": "车道沟公园"
+    },
+    {
+        "station": "慈寿寺",
+        "attraction": "京门铁路主题公园"
+    },
+    {
+        "station": "慈寿寺",
+        "attraction": "慈寿寺塔·玲珑公园"
+    },
+    {
+        "station": "西钓鱼台",
+        "attraction": "翠微烟雨公园"
+    },
+    {
+        "station": "西钓鱼台",
+        "attraction": "中塔公园"
+    },
+    {
+        "station": "西钓鱼台",
+        "attraction": "太平洋海底世界博览馆"
+    },
+    {
+        "station": "西钓鱼台",
+        "attraction": "定慧公园"
+    },
+    {
+        "station": "西钓鱼台",
+        "attraction": "中央电视塔"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "玉渊潭公园"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "太平洋海底世界博览馆"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "中央电视塔"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "翠微烟雨公园"
+    },
+    {
+        "station": "公主坟",
+        "attraction": "小天鹅公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "万丰公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "莲花池公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "足球公园"
+    },
+    {
+        "station": "泥洼",
+        "attraction": "庄怡公园"
+    },
+    {
+        "station": "泥洼",
+        "attraction": "丰益公园"
+    },
+    {
+        "station": "泥洼",
+        "attraction": "东管头城市休闲公园"
+    },
+    {
+        "station": "草桥",
+        "attraction": "北京世界花卉大观园"
+    },
+    {
+        "station": "角门西",
+        "attraction": "嘉园三里公园"
+    },
+    {
+        "station": "角门西",
+        "attraction": "嘉囿城市休闲公园"
+    },
+    {
+        "station": "十里河",
+        "attraction": "弘善公园"
+    },
+    {
+        "station": "十里河",
+        "attraction": "北京市方志馆"
+    },
+    {
+        "station": "潘家园",
+        "attraction": "双馨园"
+    },
+    {
+        "station": "潘家园",
+        "attraction": "松榆里公园"
+    },
+    {
+        "station": "国贸",
+        "attraction": "庆丰公园"
+    },
+    {
+        "station": "国贸",
+        "attraction": "CBD城市森林公园"
+    },
+    {
+        "station": "金台夕照",
+        "attraction": "CBD历史文化公园"
+    },
+    {
+        "station": "呼家楼",
+        "attraction": "团结湖公园"
+    },
+    {
+        "station": "团结湖",
+        "attraction": "东枫国际体育园"
+    },
+    {
+        "station": "团结湖",
+        "attraction": "朝阳区农展馆"
+    },
+    {
+        "station": "农业展览馆",
+        "attraction": "朝阳区农展馆"
+    },
+    {
+        "station": "亮马桥",
+        "attraction": "左家庄文化园"
+    },
+    {
+        "station": "三元桥",
+        "attraction": "香河园公园"
+    },
+    {
+        "station": "太阳宫",
+        "attraction": "太阳宫公园"
+    },
+    {
+        "station": "芍药居",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "芍药居",
+        "attraction": "太阳宫公园"
+    },
+    {
+        "station": "芍药居",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "惠新西街南口",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "安贞门",
+        "attraction": "北京奥林匹克公园"
+    },
+    {
+        "station": "北土城",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "健德门",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "健德门",
+        "attraction": "玫瑰公园"
+    },
+    {
+        "station": "牡丹园",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "牡丹园",
+        "attraction": "元土城遗址公园"
+    },
+    {
+        "station": "西土城",
+        "attraction": "元土城遗址公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "万丰公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "莲花池公园"
+    },
+    {
+        "station": "六里桥",
+        "attraction": "足球公园"
+    },
+    {
+        "station": "光熙门",
+        "attraction": "和平街公园"
+    },
+    {
+        "station": "东直门",
+        "attraction": "南馆公园"
+    },
+    {
+        "station": "东直门",
+        "attraction": "通教寺"
+    },
+    {
+        "station": "东直门",
+        "attraction": "中国华侨历史博物馆"
+    },
+    {
+        "station": "东直门",
+        "attraction": "东直门外清真寺"
+    },
+    {
+        "station": "东直门",
+        "attraction": "中国医史博物馆"
+    },
+    {
+        "station": "东直门",
+        "attraction": "北京自来水博物馆"
+    },
+    {
+        "station": "芍药居",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "芍药居",
+        "attraction": "太阳宫公园"
+    },
+    {
+        "station": "望京西",
+        "attraction": "桐城公园"
+    },
+    {
+        "station": "望京西",
+        "attraction": "望和公园"
+    },
+    {
+        "station": "望京西",
+        "attraction": "北小河公园"
+    },
+    {
+        "station": "望京西",
+        "attraction": "护国天仙圣母庙"
+    },
+    {
+        "station": "北苑",
+        "attraction": "北京温榆河公园"
+    },
+    {
+        "station": "北苑",
+        "attraction": "林荫公园"
+    },
+    {
+        "station": "北苑",
+        "attraction": "清河营郊野公园"
+    },
+    {
+        "station": "北苑",
+        "attraction": "勇士营郊野公园"
+    },
+    {
+        "station": "立水桥",
+        "attraction": "立水桥公园"
+    },
+    {
+        "station": "立水桥",
+        "attraction": "东小口森林公园"
+    },
+    {
+        "station": "龙泽",
+        "attraction": "平衡车公园"
+    },
+    {
+        "station": "龙泽",
+        "attraction": "玉光寺"
+    },
+    {
+        "station": "西二旗",
+        "attraction": "中关村公园"
+    },
+    {
+        "station": "上地",
+        "attraction": "树村郊野公园"
+    },
+    {
+        "station": "大钟寺",
+        "attraction": "大钟寺古钟博物馆"
+    },
+    {
+        "station": "张郭庄",
+        "attraction": "北京园博园"
+    },
+    {
+        "station": "园博园",
+        "attraction": "北京园博园"
+    },
+    {
+        "station": "园博园",
+        "attraction": "晓月郊野公园"
+    },
+    {
+        "station": "园博园",
+        "attraction": "卢沟桥"
+    },
+    {
+        "station": "大瓦窑",
+        "attraction": "宛平城和卢沟桥"
+    },
+    {
+        "station": "大瓦窑",
+        "attraction": "经仪公园"
+    },
+    {
+        "station": "郭庄子",
+        "attraction": "郭庄子公园"
+    },
+    {
+        "station": "大井",
+        "attraction": "丰台花园"
+    },
+    {
+        "station": "菜户营",
+        "attraction": "金中都公园"
+    },
+    {
+        "station": "景风门",
+        "attraction": "万芳亭"
+    },
+    {
+        "station": "景风门",
+        "attraction": "嘉河公园"
+    },
+    {
+        "station": "北京南站",
+        "attraction": "万芳亭"
+    },
+    {
+        "station": "永定门外",
+        "attraction": "景泰公园"
+    },
+    {
+        "station": "永定门外",
+        "attraction": "永定门城楼"
+    },
+    {
+        "station": "十里河",
+        "attraction": "弘善公园"
+    },
+    {
+        "station": "十里河",
+        "attraction": "北京市方志馆"
+    },
+    {
+        "station": "平乐园",
+        "attraction": "窑洼湖公园"
+    },
+    {
+        "station": "大望路",
+        "attraction": "国家电力科技展示中心"
+    },
+    {
+        "station": "大望路",
+        "attraction": "中工艺美公共外交艺术馆"
+    },
+    {
+        "station": "金台路",
+        "attraction": "万科公园"
+    },
+    {
+        "station": "金台路",
+        "attraction": "红领巾公园"
+    },
+    {
+        "station": "朝阳公园",
+        "attraction": "朝阳公园"
+    },
+    {
+        "station": "枣营",
+        "attraction": "朝阳公园"
+    },
+    {
+        "station": "将台",
+        "attraction": "颐堤港公园"
+    },
+    {
+        "station": "将台",
+        "attraction": "驼房营公园"
+    },
+    {
+        "station": "将台",
+        "attraction": "四得公园"
+    },
+    {
+        "station": "将台",
+        "attraction": "丽都花园"
+    },
+    {
+        "station": "将台",
+        "attraction": "将台滨河公园"
+    },
+    {
+        "station": "将台",
+        "attraction": "将府公园"
+    },
+    {
+        "station": "望京南",
+        "attraction": "798艺术街区"
+    },
+    {
+        "station": "望京南",
+        "attraction": "活的3D博物馆"
+    },
+    {
+        "station": "望京南",
+        "attraction": "丽都花园"
+    },
+    {
+        "station": "望京南",
+        "attraction": "望京公园"
+    },
+    {
+        "station": "望京南",
+        "attraction": "大望京公园"
+    },
+    {
+        "station": "阜通",
+        "attraction": "金隅南湖公园"
+    },
+    {
+        "station": "阜通",
+        "attraction": "望和公园"
+    },
+    {
+        "station": "望京",
+        "attraction": "望京文化体育公园"
+    },
+    {
+        "station": "望京",
+        "attraction": "望和公园"
+    },
+    {
+        "station": "望京",
+        "attraction": "北小河公园"
+    },
+    {
+        "station": "东湖渠",
+        "attraction": "望湖公园"
+    },
+    {
+        "station": "来广营",
+        "attraction": "纬景园"
+    },
+    {
+        "station": "来广营",
+        "attraction": "瑞竹园"
+    },
+    {
+        "station": "来广营",
+        "attraction": "十友园"
+    },
+    {
+        "station": "善各庄",
+        "attraction": "宏昌竣体育公园"
+    },
+    {
+        "station": "善各庄",
+        "attraction": "善各庄公园"
+    },
+    {
+        "station": "俸伯",
+        "attraction": "顺义新城滨河森林公园"
+    },
+    {
+        "station": "俸伯",
+        "attraction": "潮白河森林公园"
+    },
+    {
+        "station": "顺义",
+        "attraction": "潮白河森林公园"
+    },
+    {
+        "station": "顺义",
+        "attraction": "光明文化广场"
+    },
+    {
+        "station": "顺义",
+        "attraction": "顺义公园"
+    },
+    {
+        "station": "顺义",
+        "attraction": "怡园公园"
+    },
+    {
+        "station": "石门",
+        "attraction": "卧龙公园"
+    },
+    {
+        "station": "后沙峪",
+        "attraction": "兴峪城市森林公园"
+    },
+    {
+        "station": "后沙峪",
+        "attraction": "花博会主题公园"
+    },
+    {
+        "station": "国展",
+        "attraction": "中国国际展览中心(顺义馆)"
+    },
+    {
+        "station": "花梨坎",
+        "attraction": "安华壹号艺术馆"
+    },
+    {
+        "station": "孙河",
+        "attraction": "孙河郊野公园"
+    },
+    {
+        "station": "马泉营",
+        "attraction": "何里栖地公园"
+    },
+    {
+        "station": "崔各庄",
+        "attraction": "马南里公园"
+    },
+    {
+        "station": "望京东",
+        "attraction": "大望京公园"
+    },
+    {
+        "station": "望京",
+        "attraction": "望京文化体育公园"
+    },
+    {
+        "station": "望京",
+        "attraction": "望和公园"
+    },
+    {
+        "station": "望京",
+        "attraction": "北小河公园"
+    },
+    {
+        "station": "望京西",
+        "attraction": "桐城公园"
+    },
+    {
+        "station": "望京西",
+        "attraction": "望和公园"
+    },
+    {
+        "station": "望京西",
+        "attraction": "北小河公园"
+    },
+    {
+        "station": "望京西",
+        "attraction": "护国天仙圣母庙"
+    },
+    {
+        "station": "关庄",
+        "attraction": "华汇紫薇公园"
+    },
+    {
+        "station": "关庄",
+        "attraction": "黄草湾郊野公园"
+    },
+    {
+        "station": "安立路",
+        "attraction": "仰山公园"
+    },
+    {
+        "station": "奥林匹克公园",
+        "attraction": "北京奥林匹克公园"
+    },
+    {
+        "station": "北沙滩",
+        "attraction": "北极寺公园"
+    },
+    {
+        "station": "六道口",
+        "attraction": "东升八家郊野公园"
+    },
+    {
+        "station": "大屯路东",
+        "attraction": "仰山公园"
+    },
+    {
+        "station": "清华东路西口",
+        "attraction": "清华大学"
+    },
+    {
+        "station": "北安河",
+        "attraction": "北京鹫峰国家森林公园"
+    },
+    {
+        "station": "温阳路",
+        "attraction": "海淀区集体生态林景观林"
+    },
+    {
+        "station": "温阳路",
+        "attraction": "齐物潭"
+    },
+    {
+        "station": "稻香湖路",
+        "attraction": "稻香湖公园"
+    },
+    {
+        "station": "稻香湖路",
+        "attraction": "齐物潭"
+    },
+    {
+        "station": "稻香湖路",
+        "attraction": "温泉公园"
+    },
+    {
+        "station": "永丰",
+        "attraction": "数智企业体验馆"
+    },
+    {
+        "station": "永丰南",
+        "attraction": "航天湖公园"
+    },
+    {
+        "station": "西北旺",
+        "attraction": "百旺公园"
+    },
+    {
+        "station": "马连洼",
+        "attraction": "百望山"
+    },
+    {
+        "station": "马连洼",
+        "attraction": "药用植物园"
+    },
+    {
+        "station": "农大南路",
+        "attraction": "树村郊野公园"
+    },
+    {
+        "station": "万泉河桥",
+        "attraction": "海淀公园"
+    },
+    {
+        "station": "万寿寺",
+        "attraction": "南长河公园"
+    },
+    {
+        "station": "万寿寺",
+        "attraction": "万寿寺"
+    },
+    {
+        "station": "万寿寺",
+        "attraction": "中国剧院"
+    },
+    {
+        "station": "万寿寺",
+        "attraction": "延庆寺"
+    },
+    {
+        "station": "万寿寺",
+        "attraction": "紫竹院公园"
+    },
+    {
+        "station": "万寿寺",
+        "attraction": "北京艺术博物馆"
+    },
+    {
+        "station": "万寿寺",
+        "attraction": "李四光纪念馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "国家图书馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "紫竹院公园"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "北京石刻艺术博物馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "首都滑冰馆"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "北京动物园"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "极乐寺"
+    },
+    {
+        "station": "国家图书馆",
+        "attraction": "首都滑冰馆"
+    },
+    {
+        "station": "甘家口",
+        "attraction": "北京银杏树林"
+    },
+    {
+        "station": "玉渊潭东门",
+        "attraction": "玉渊潭公园"
+    },
+    {
+        "station": "周家庄",
+        "attraction": "小武基公园"
+    },
+    {
+        "station": "十八里店",
+        "attraction": "海棠公园"
+    },
+    {
+        "station": "十八里店",
+        "attraction": "老君堂公园"
+    },
+    {
+        "station": "次渠北",
+        "attraction": "东石公园"
+    },
+    {
+        "station": "次渠北",
+        "attraction": "阡陌风韵城市田园带型休闲公园"
+    },
+    {
+        "station": "次渠北",
+        "attraction": "乐跑公园"
+    },
+    {
+        "station": "次渠",
+        "attraction": "东石公园"
+    },
+    {
+        "station": "牡丹园",
+        "attraction": "元大都城垣遗址公园"
+    },
+    {
+        "station": "牡丹园",
+        "attraction": "元土城遗址公园"
+    },
+    {
+        "station": "北太平庄",
+        "attraction": "双秀公园"
+    },
+    {
+        "station": "北太平庄",
+        "attraction": "马甸清真寺"
+    },
+    {
+        "station": "北太平庄",
+        "attraction": "马甸公园"
+    },
+    {
+        "station": "积水潭",
+        "attraction": "什刹海"
+    },
+    {
+        "station": "积水潭",
+        "attraction": "潭西胜境"
+    },
+    {
+        "station": "积水潭",
+        "attraction": "德胜门箭楼·德胜公园"
+    },
+    {
+        "station": "平安里",
+        "attraction": "护国寺小吃街"
+    },
+    {
+        "station": "平安里",
+        "attraction": "毗卢寺"
+    },
+    {
+        "station": "平安里",
+        "attraction": "梅兰芳纪念馆"
+    },
+    {
+        "station": "牛街",
+        "attraction": "北京宣南文化博物馆"
+    },
+    {
+        "station": "牛街",
+        "attraction": "广宁公园"
+    },
+    {
+        "station": "牛街",
+        "attraction": "牛街礼拜寺"
+    },
+    {
+        "station": "牛街",
+        "attraction": "清真女寺"
+    }
+    
+]

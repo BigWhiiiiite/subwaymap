@@ -1,0 +1,36 @@
+.main {
+    min-height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.leftpane {
+    background-color: rgb(235, 16, 16);
+    height: 100vh;
+    max-height: 100vh;
+    padding: 1em;
+    overflow-y: auto;
+}
+.rightpane {
+    background-color: rgb(215, 215, 255);
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.theimg {
+    max-width: 75vw;
+    width: 75vw;
+    min-width: 75vw;
+    height: 63vw;
+
+    background-image: url('/map.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .leftpane,
+    .rightpane {
+        background-color: black;
+    }
+}
