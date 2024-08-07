@@ -319,7 +319,7 @@ export default function Home() {
 
     React.useEffect(() => {
         const startOptions = Array.from(new Set(pathData.map(item => item.name1)));
-        const endOptions = Array.from(new Set(pathData.map(item => item.name2)));
+        const endOptions = Array.from(new Set(pathData.map(item.name2)));
         const tourOptions = Array.from(new Set(TouristAttraction.map(item => item.attraction)));
         const inputOptions = [...startOptions, ...endOptions, ...tourOptions]
         setStartStationOptions(inputOptions);
@@ -340,22 +340,16 @@ export default function Home() {
                     <Autocomplete
                         disablePortal
                         value={startStation}
-                        onChange={(event, value) => {
-                            setStartStation(value);
-                        }}
-                        options={startStationOptions}
                         onChange={(event, value) => handleStationChange(setStartStation, value)}
+                        options={startStationOptions}
                         renderInput={(params) => <TextField {...params} label="起始站" />}
                     />
 
                     <Autocomplete
                         disablePortal
                         value={endStation}
-                        onChange={(event, value) => {
-                            setEndStation(value);
-                        }}
-                        options={endStationOptions}
                         onChange={(event, value) => handleStationChange(setEndStation, value)}
+                        options={endStationOptions}
                         renderInput={(params) => <TextField {...params} label="终点站" />}
                     />
 
