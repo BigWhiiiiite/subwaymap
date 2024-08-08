@@ -1,18 +1,17 @@
 import Head from 'next/head';
+import React from 'react'; // 确保引入 React
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
-import { Inter } from 'next/font/google';
 import styles from '@/styles/Home.module.css';
 import Grid from '@mui/material/Unstable_Grid2'; // Grid version 2
 import { Autocomplete, TextField, Button, Typography, List, ListItem, ListItemText } from '@mui/material';
 import mapImage from '../public/map.png';
 import pathData from '@/toolkit/pathdata.json';
-import * as React from 'react';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import stationPos from './stationPos.json';
-import TouristAttraction from './TouristAttraction.json'
+import TouristAttraction from './TouristAttraction.json';
 
 var graph = {};
 var nameToId = {};
@@ -178,7 +177,7 @@ function calculatePrice(distance) {
 // 计算最少换乘路径的函数
 function findLeastTransfersPath(graph, startName, endName, lineInfo) {
     const largeTransferPenalty = 166.6; // 大换乘代价（10分钟转换为小时）
-    const smallTransferPenalty =  0.35// 小换乘代价（5分钟转换为小时）
+    const smallTransferPenalty = 0.35; // 小换乘代价（5分钟转换为小时）
     const queue = [{ path: [startName], time: 0, distance: 0, transfers: 0, lines: [] }];
     const visited = new Set();
     let leastTransfersPath = null;
@@ -208,8 +207,6 @@ function findLeastTransfersPath(graph, startName, endName, lineInfo) {
                     const newTime = time + (edge.length / 80000) + transferTime;
 
                     queue.push({ path: [...path, neighbor], time: newTime, distance: newDistance, transfers: newTransfers, lines: [...lines, edge.line] });
-                    
-
                 }
             }
         }
@@ -219,15 +216,14 @@ function findLeastTransfersPath(graph, startName, endName, lineInfo) {
     let actualTime = 0;
     leastTransfersPath.lines.reduce((prevLine, currentLine, index) => {
         if (index > 0) {
-            actualTime += (leastTransfersPath.path[index - 1].length / 80000) ;
-            actualTime += prevLine !== currentLine ? smallTransferPenalty  : 0;
+            actualTime += (leastTransfersPath.path[index - 1].length / 80000);
+            actualTime += prevLine !== currentLine ? smallTransferPenalty : 0;
         }
         return currentLine;
     }, leastTransfersPath.lines[0]);
 
-    return { ...leastTransfersPath, time: actualTime }; 
+    return { ...leastTransfersPath, time: actualTime };
 }
-
 
 // 修改版的寻找路径函数
 async function findPath(pathData, startStation, endStation, searchType) {
@@ -246,12 +242,12 @@ async function findPath(pathData, startStation, endStation, searchType) {
 
 export default function Home() {
     // 使用 useState 钩子来存储起始站和终点站的选项
-    const [startStationOptions, setStartStationOptions] = React.useState([]);
-    const [endStationOptions, setEndStationOptions] = React.useState([]);
-    const [startStation, setStartStation] = React.useState('');
-    const [endStation, setEndStation] = React.useState('');
-    const [findType, setFindType] = React.useState('最短路径');
-    const [result, setResult] = React.useState({ path: [], time: 0, distance: 0, transfers: 0, lines: [] });
+    const [startStationOptions, setStartStationOptions] = useState([]);
+    const [endStationOptions, setEndStationOptions] = useState([]);
+    const [startStation, setStartStation] = useState('');
+    const [endStation, setEndStation] = useState('');
+    const [findType, setFindType] = useState('最短路径');
+    const [result, setResult] = useState({ path: [], time: 0, distance: 0, transfers: 0, lines: [] });
 
     const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
     const attractionToStationMap = TouristAttraction.reduce((map, item) => {
@@ -269,11 +265,12 @@ export default function Home() {
         [prefersDarkMode]
     );
 
-       function handleStationChange(setStation, value) {
+    function handleStationChange(setStation, value) {
         // 检查输入值是否是景点名称，如果是，则映射到对应的地铁站
         const station = attractionToStationMap[value] || value;
         setStation(station);
     }
+
     function handleClick() {
         // 将文本选项映射为相应的查询类型
         const searchType = findType === '最短路径' ? '1' : findType === '最短时间' ? '2' : '3';
@@ -317,11 +314,11 @@ export default function Home() {
         });
     }
 
-    React.useEffect(() => {
+    useEffect(() => {
         const startOptions = Array.from(new Set(pathData.map(item => item.name1)));
         const endOptions = Array.from(new Set(pathData.map(item.name2)));
         const tourOptions = Array.from(new Set(TouristAttraction.map(item => item.attraction)));
-        const inputOptions = [...startOptions, ...endOptions, ...tourOptions]
+        const inputOptions = [...startOptions, ...endOptions, ...tourOptions];
         setStartStationOptions(inputOptions);
         setEndStationOptions(inputOptions);
     }, []); // 空数组表示这个 effect 只在组件挂载时运行
@@ -357,9 +354,7 @@ export default function Home() {
                         disablePortal
                         value={findType}
                         options={['最短路径', '最短时间', '最少换乘']}
-                        onChange={(event, value) => {
-                            setFindType(value);
-                        }}
+                        onChange={(event, value) => setFindType(value)}
                         renderInput={params => <TextField {...params} label="线路选择方式" />}
                     />
 
@@ -377,6 +372,7 @@ export default function Home() {
                     </List>
                 </Grid>
                 <Grid xs={9} className={styles.rightpane}>
+                    <Image src={mapImage} alt="Map" width={14173} height={11942} />
                     <canvas width={14173} height={11942} id="thecanvas" className={styles.theimg}></canvas>
                 </Grid>
             </Grid>
